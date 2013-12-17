@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/geoweb/!svn/ver/3249/trunk/RoodIn/RoodInLibrary/src/com/crs4/roodin/moduletester/activities
+END
+RotationActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/geoweb/!svn/ver/3218/trunk/RoodIn/RoodInLibrary/src/com/crs4/roodin/moduletester/activities/RotationActivity.java
+END
+BluetoothActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/geoweb/!svn/ver/3249/trunk/RoodIn/RoodInLibrary/src/com/crs4/roodin/moduletester/activities/BluetoothActivity.java
+END
+StepActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/geoweb/!svn/ver/3218/trunk/RoodIn/RoodInLibrary/src/com/crs4/roodin/moduletester/activities/StepActivity.java
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/geoweb/!svn/ver/3218/trunk/RoodIn/RoodInLibrary/src/com/crs4/roodin/moduletester/activities/MainActivity.java
+END
+PositionActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/geoweb/!svn/ver/3218/trunk/RoodIn/RoodInLibrary/src/com/crs4/roodin/moduletester/activities/PositionActivity.java
+END
+CheckpointActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/geoweb/!svn/ver/3249/trunk/RoodIn/RoodInLibrary/src/com/crs4/roodin/moduletester/activities/CheckpointActivity.java
+END
+DijkstraActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/geoweb/!svn/ver/3218/trunk/RoodIn/RoodInLibrary/src/com/crs4/roodin/moduletester/activities/DijkstraActivity.java
+END
+PathActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/geoweb/!svn/ver/3218/trunk/RoodIn/RoodInLibrary/src/com/crs4/roodin/moduletester/activities/PathActivity.java
+END

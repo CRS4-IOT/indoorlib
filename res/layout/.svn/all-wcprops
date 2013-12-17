@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/geoweb/!svn/ver/3249/trunk/RoodIn/RoodInLibrary/res/layout
+END
+activity_bluetooth_prova.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geoweb/!svn/ver/3249/trunk/RoodIn/RoodInLibrary/res/layout/activity_bluetooth_prova.xml
+END
+activity_checkpoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geoweb/!svn/ver/3158/trunk/RoodIn/RoodInLibrary/res/layout/activity_checkpoint.xml
+END
+activity_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geoweb/!svn/ver/3221/trunk/RoodIn/RoodInLibrary/res/layout/activity_main.xml
+END
+activity_step.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geoweb/!svn/ver/3158/trunk/RoodIn/RoodInLibrary/res/layout/activity_step.xml
+END
+activity_map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/geoweb/!svn/ver/3158/trunk/RoodIn/RoodInLibrary/res/layout/activity_map.xml
+END
+activity_rotation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geoweb/!svn/ver/3158/trunk/RoodIn/RoodInLibrary/res/layout/activity_rotation.xml
+END
+activity_bluetooth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geoweb/!svn/ver/3249/trunk/RoodIn/RoodInLibrary/res/layout/activity_bluetooth.xml
+END
+activity_path.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geoweb/!svn/ver/3158/trunk/RoodIn/RoodInLibrary/res/layout/activity_path.xml
+END
+activity_dijkstra.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geoweb/!svn/ver/3158/trunk/RoodIn/RoodInLibrary/res/layout/activity_dijkstra.xml
+END

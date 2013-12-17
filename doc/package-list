@@ -1,0 +1,11 @@
+com.crs4.dijkstra
+com.crs4.roodin.bayesian
+com.crs4.roodin.dbManager
+com.crs4.roodin.modules.boundingbox
+com.crs4.roodin.modules.position
+com.crs4.roodin.modules.rotation
+com.crs4.roodin.modules.step
+com.crs4.roodin.moduletester
+com.crs4.roodin.moduletester.activities
+com.crs4.roodin.pathFinder
+com.crs4.utilities

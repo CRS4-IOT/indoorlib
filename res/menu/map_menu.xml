@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:id="@+id/view_nodePoints" android:title="View Nodes"
+		android:icon="@android:drawable/btn_radio" />
+
+	<item android:id="@+id/view_borders" android:title="View Bars"
+		android:icon="@android:drawable/ic_dialog_map" />
+		
+	<item android:id="@+id/calibrateMap" android:title="Calibrate Map"
+		android:icon="@android:drawable/ic_menu_mapmode">
+	</item>
+
+	<item android:id="@+id/calibrateCompass" android:title="Calibrate Compass"
+		android:icon="@android:drawable/ic_menu_compass" />
+		
+	<item android:id="@+id/set_preferences" android:title="Set Preferences"
+		android:icon="@android:drawable/ic_menu_manage"></item>
+
+	<item android:id="@+id/view_preferences" android:title="View Preferences"
+		android:icon="@android:drawable/ic_menu_preferences"></item>
+	
+
+
+</menu>

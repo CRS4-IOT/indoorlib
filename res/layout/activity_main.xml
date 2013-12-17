@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="top"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/TextView03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="14dp"
+        android:text="@string/app_name"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="@dimen/TitleTextSize" />
+
+    <Button
+        android:id="@+id/buttonTestStep"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonTestPosition"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"
+        android:text="@string/buttonTestStep_name" />
+
+    <Button
+        android:id="@+id/buttonTestRotation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonTestStep"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="@string/buttonTestRotation_name" />
+
+    <Button
+        android:id="@+id/ButtonTestCheckpoint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonTestRotation"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="@string/buttonTestCheckpoint_name" />
+
+    <Button
+        android:id="@+id/buttonTestPath"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/buttonTestDijkstra"
+        android:layout_alignBottom="@+id/buttonTestDijkstra"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="24dp"
+        android:text="@string/buttonTestPath_name" />
+
+    <Button
+        android:id="@+id/buttonTestDijkstra"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/TextView03"
+        android:layout_below="@+id/ButtonTestCheckpoint"
+        android:layout_marginTop="36dp"
+        android:text="@string/buttonTestDijkstra_name" />
+
+    <Button
+        android:id="@+id/buttonTestPosition"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/TextView03"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="@string/buttonTestPosition_name" />
+
+</RelativeLayout>

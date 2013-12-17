@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="/Applications/eclipse/android-sdk/platforms/android-10/android.jar" destdir="doc" doctitle="roodin-module" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.crs4.dijkstra,com.crs4.roodin.modules.rotation,com.crs4.roodin.bayesian,com.crs4.roodin.modules.position,com.crs4.utilities,com.crs4.roodin.dbManager,com.crs4.roodin.modules.boundingbox,com.crs4.roodin.moduletester,com.crs4.roodin.pathFinder,com.crs4.roodin.moduletester.activities,com.crs4.roodin.modules.step" source="1.6" sourcepath="gen:src" splitindex="true" use="true" version="true">
+            <link href="http://developer.android.com/reference/"/>
+            <link href="file:/Users/albe/Documents/workspace_eclipse/RoodIn-Module/doc/"/>
+        </javadoc>
+    </target>
+</project>
