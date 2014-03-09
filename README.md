@@ -4,6 +4,10 @@ indoorlib
 Indoor Navigation Libraries
 by ICT/LBS group CRS4.
 
+--------
+For detailed documentation of the project please refer to http://roodinrel.crs4.it/
+--------
+
 Indoor Navigation Libraries are the splitting result of the starting 
 Android project for indoor navigation developed @CRS4 since 2010. 
 For Android smartphones. Features:
