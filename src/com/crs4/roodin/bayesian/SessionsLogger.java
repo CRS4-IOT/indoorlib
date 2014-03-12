@@ -1,6 +1,18 @@
-/*
+/*******************************************************************************
+ * Copyright 2013 CRS4
+ *  
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
  * 
- */
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ ******************************************************************************/
 package com.crs4.roodin.bayesian;
 
 // it's the old "server2.py" file for mobile. It contains the same functions.
@@ -20,8 +32,8 @@ import android.util.Log;
  */
 public class SessionsLogger {
 
-	//HashMap accetta chiavi nulle NON SINCRONIZZATA   (pi� veloce dovrebbe andare bene nel nostro caso)
-	//HashTable non accetta chiavi nulle SINCRONIZZATA pi� sicura per multi-threading 
+	//HashMap accetta chiavi nulle NON SINCRONIZZATA   (pi��� veloce dovrebbe andare bene nel nostro caso)
+	//HashTable non accetta chiavi nulle SINCRONIZZATA pi��� sicura per multi-threading 
 
 	Map<String, Map<String, Object>> sessions = new HashMap<String, Map<String, Object>>();
 
@@ -100,7 +112,7 @@ public class SessionsLogger {
 		Date date = new Date();
 			    
 		session.put("id", sessionid);
-		session.put("date_created", date.getDate());   	//TODO la data � diversa da python
+		session.put("date_created", date.getDate());   	//TODO la data ��� diversa da python
 		session.put("probs", new double[shape.getInt(0)][shape.getInt(1)]);       //numpy.zeros(shape),
 		session.put("barred", convertToMatrix(barred));
 		session.put("ppm", ppm);
@@ -121,7 +133,7 @@ public class SessionsLogger {
 	 * @param radio is the radio string obtained from the wifi spots
 	 * @return estimate cell position of the user
 	 */ 
-	public Cell estimatePos(String sessionid, double heading, String radio){ //TODO radio � string????
+	public Cell estimatePos(String sessionid, double heading, String radio){ //TODO radio ��� string????
 		
 		Map<String, Object> session = sessions.get(sessionid);
 				
