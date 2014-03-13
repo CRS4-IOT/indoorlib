@@ -13,7 +13,7 @@ Copyright CRS4 2013-2014
 
 
 --------
-For detailed documentation of the project please refer to http://roodinrel.crs4.it/
+For detailed documentation of the project please refer to http://indoorlib.crs4.it/
 --------
 
 Indoor Navigation Libraries are the splitting result of the starting 
